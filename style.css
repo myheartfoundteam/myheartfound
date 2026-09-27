@@ -1,11 +1,11 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
 :root {
-  --darkgreen: #577d59;
-  --muted: ##6d7d68;
-  --lightpink: #f5d7e5;
+  --ink: #2a3d2b;
+  --muted: #68747d;
+  --cream: #fbf8f3;
   --white: #ffffff;
-  --green: #b7f7c0;
-  --peach: #ff5c7c;
+  --peach: #f6d9ce;
+  --peach-dark: #e9b8a9;
   --sage: #dbe7df;
   --accent: #d77d68;
   --line: #e9e1d9;
