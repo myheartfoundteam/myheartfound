@@ -142,18 +142,18 @@ footer { border-top: 1px solid var(--line); padding: 35px 0; background: #f6f1eb
 }
 
 .team-member h2 {
-  margin: 15px 0 5px;
+  margin: 0 0 10px;
   color: #4a2c17;
 }
 
 .team-member h3 {
-  margin: 0 0 12px;
+  margin: 0 0 10px;
   color: #b1782c;
 }
 
 .team-member p {
   color: #555;
-  line-height: 1.6;
+  line-height: 1.2;
 }
 
 
